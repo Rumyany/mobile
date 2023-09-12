@@ -33,6 +33,11 @@ button {
     transition: .4s;
     cursor: pointer;
 }
+.testimonial__img{
+    margin-left: 100px;
+}
+
+
 .btn-primary {
     padding: 20px 36px;
     font: 700 18px 'Inter', Arial, Helvetica, sans-serif;
@@ -55,9 +60,16 @@ input {
 }
 .container {
     max-width: 100%;
-   margin-left: 500px;
-    color:black;
+    margin-left:200px;
+   
 }
+
+.news-item{
+    min-width:500px;
+    margin-left: 200px;
+}
+
+
 .container-header {
     padding: 0 10px;
 }
