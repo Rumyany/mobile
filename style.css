@@ -60,7 +60,7 @@ input {
 }
 .container {
     width: 500px;
-    
+
    
    
 }
@@ -83,11 +83,7 @@ input {
     font: 600 18px/22px 'Urbanist', Arial, Helvetica, sans-serif;
     text-align: center;
 }
-.section-subtitle {
-    margin-bottom: 56px;
-    font: 48px/62px 'Righteous', cursive;
-    text-align: center;
-}
+
 .section__text {
     opacity: 0.8;
     text-transform: capitalize;
@@ -607,10 +603,7 @@ input {
 }
 
 .ad-block {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
+   
     margin-left:230px;
     background-color: #1C1814;
     border: 1px ;
@@ -618,14 +611,12 @@ input {
 
 .ad-logo {
     width: 150px;
-    height: auto;
-    margin-bottom: 10px;
+   
 }
 
 .ad-title {
     font-size: 24px;
-    margin-bottom: 10px;
-    margin-top: 20px;
+    
 }
 
 .ad-description {
@@ -642,9 +633,17 @@ input {
 .ad-link:hover {
     text-decoration: underline;
 }
+.money{
+    margin-left: 200px;
+}
+.western{
+    margin-left: 50px;
+}
+
+
 .vlasov{
     margin-left: 50px;
-    margin-right: -100px;
+    margin-right: -190px;
 }
 
 
