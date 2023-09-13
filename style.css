@@ -195,7 +195,7 @@ input {
 .banner {
     display: flex;
     justify-content: space-between;
-    padding: 10px 5px 10px 20px;
+    margin-left: 200px;
 }
 .banner-info {
     max-width: 700px;
@@ -257,8 +257,10 @@ input {
     margin-top: 24px;
 }
 .features.section-main{
-    margin-left: 30px;
+    margin-left: 200px;
 }
+
+
 
 /* History */
 .history-wrap {
@@ -433,10 +435,18 @@ input {
     padding: 10px;
 }
 
+.section-main{
+
+
+}
+.stars{
+    margin-left: 200px;
+}
+
 
 
 #news-section {
-    padding: 40px 0;
+    margin-left: 350px;
     text-align: center;
 }
 
@@ -444,6 +454,14 @@ input {
     font-size: 24px;
     font-weight: bold;
     margin-bottom: 20px;
+    margin-left: 30px;
+}
+.section-subtitle {
+    margin-left: 50px;
+}
+
+.title{
+    margin-left:200px;
 }
 
 .news-block {
@@ -593,7 +611,7 @@ input {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    padding: 20px;
+    margin-left:230px;
     background-color: #1C1814;
     border: 1px ;
 }
@@ -624,30 +642,13 @@ input {
 .ad-link:hover {
     text-decoration: underline;
 }
+.vlasov{
+    margin-left: 50px;
+    margin-right: -100px;
+}
 
 
-/* Reservation */
-.reservation-wrap {
-    display: flex;
-    justify-content: space-between;
-}
-.reservation-map {
-    width: 50%;
-    background: url(img/map.jpg) 50% 0%/cover no-repeat;
-}
-.reservation {
-    width: 50%;
-    padding: 72px 48px;
-    background-color: #1C1814;
-}
-.reservation__input {
-    width: 100%;
-    margin-bottom: 24px;
-}
-.reservation__btn {
-    width: 205px;
-    margin: 56px auto 0;
-}
+
 
 /* News */
 .news-wrap,
@@ -682,6 +683,9 @@ input {
 }
 .news__link:hover {
     color: #bd864b;
+}
+.news{
+    margin-left: 50px;
 }
 
 /* Footer */
